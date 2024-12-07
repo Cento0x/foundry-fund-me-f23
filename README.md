@@ -69,3 +69,7 @@ $ cast --help
 =======
 # foundry-fund-me-f23
 >>>>>>> e7206a6914801091deb15ee659d7ee7d53982a47
+
+^x
+clear
+
